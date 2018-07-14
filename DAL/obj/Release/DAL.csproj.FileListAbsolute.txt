@@ -1,0 +1,8 @@
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\bin\Release\DAL.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\bin\Release\DAL.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\bin\Release\Model.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\bin\Release\Model.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\obj\Release\DAL.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\obj\Release\DAL.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\bin\Release\MySql.Data.dll

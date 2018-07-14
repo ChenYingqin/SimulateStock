@@ -1,0 +1,10 @@
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\BLL\bin\Release\BLL.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\BLL\bin\Release\BLL.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\BLL\bin\Release\DAL.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\BLL\bin\Release\Model.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\BLL\bin\Release\DAL.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\BLL\bin\Release\Model.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\BLL\obj\Release\BLL.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\BLL\obj\Release\BLL.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\BLL\bin\Release\MySql.Data.dll

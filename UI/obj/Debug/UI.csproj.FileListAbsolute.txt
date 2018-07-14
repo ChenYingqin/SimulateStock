@@ -1,0 +1,42 @@
+E:\csharp\Demo\UI\bin\Debug\UI.exe.config
+E:\csharp\Demo\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\csharp\Demo\UI\obj\Debug\UI.Properties.Resources.resources
+E:\csharp\Demo\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\csharp\Demo\UI\bin\Debug\UI.exe
+E:\csharp\Demo\UI\bin\Debug\UI.pdb
+E:\csharp\Demo\UI\bin\Debug\BLL.dll
+E:\csharp\Demo\UI\bin\Debug\DAL.dll
+E:\csharp\Demo\UI\bin\Debug\Model.dll
+E:\csharp\Demo\UI\bin\Debug\BLL.pdb
+E:\csharp\Demo\UI\bin\Debug\DAL.pdb
+E:\csharp\Demo\UI\bin\Debug\Model.pdb
+E:\csharp\Demo\UI\obj\Debug\UI.exe
+E:\csharp\Demo\UI\obj\Debug\UI.pdb
+E:\csharp\Demo\UI\obj\Debug\UI.MainForm.resources
+E:\csharp\Demo\UI\obj\Debug\UI.UserLogin.resources
+E:\csharp\Demo\UI\bin\Debug\TitlePanel.dll
+E:\csharp\Demo\UI\obj\Debug\UI.test.resources
+E:\csharp\Demo\UI\obj\Debug\UI.UserRegister.resources
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214 刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\UI.exe.config
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214 刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.exe
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214 刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\UI.exe.config
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.exe
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\UI.exe
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\UI.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\BLL.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\DAL.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\Model.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\TitlePanel.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\BLL.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\DAL.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\Model.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.MainForm.resources
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.test.resources
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.UserLogin.resources
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.UserRegister.resources
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\UI\bin\Debug\MySql.Data.dll

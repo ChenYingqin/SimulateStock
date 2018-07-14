@@ -1,0 +1,15 @@
+E:\csharp\Demo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\csharp\Demo\DAL\bin\Debug\DAL.dll
+E:\csharp\Demo\DAL\bin\Debug\DAL.pdb
+E:\csharp\Demo\DAL\bin\Debug\Model.dll
+E:\csharp\Demo\DAL\bin\Debug\Model.pdb
+E:\csharp\Demo\DAL\obj\Debug\DAL.dll
+E:\csharp\Demo\DAL\obj\Debug\DAL.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\bin\Debug\DAL.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\bin\Debug\DAL.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\bin\Debug\Model.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\bin\Debug\Model.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\obj\Debug\DAL.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\obj\Debug\DAL.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\DAL\bin\Debug\MySql.Data.dll

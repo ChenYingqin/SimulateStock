@@ -1,0 +1,10 @@
+E:\csharp\Demo\Model\bin\Debug\Model.dll
+E:\csharp\Demo\Model\bin\Debug\Model.pdb
+E:\csharp\Demo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\csharp\Demo\Model\obj\Debug\Model.dll
+E:\csharp\Demo\Model\obj\Debug\Model.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\Model\bin\Debug\Model.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\Model\bin\Debug\Model.pdb
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\Model\obj\Debug\Model.dll
+C:\Users\陈应钦\Desktop\陈应钦_2014301500214刘子珲_2014301510018_大作业\程序代码文件\Demo\Model\obj\Debug\Model.pdb
